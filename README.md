@@ -1,6 +1,7 @@
-# REAL-TIME-TRAFFIC-PREDICTION
+![cover_image_raw](https://github.com/user-attachments/assets/e8a065ce-4904-47f8-9dc3-c4c7879dad8c)# REAL-TIME-TRAFFIC-PREDICTION
 # 🚗 Real-Time Traffic Density Estimation with YOLOv8
-![Uploading cover_image_raw.png…]()
+
+![cover_image_raw](https://github.com/user-attachments/assets/632fa449-abe6-4474-99b1-e2616dee6868)
 
 
 
